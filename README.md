@@ -24,7 +24,7 @@ status of it and number of booking happened each day.
 
 
 
-<p align="center"><img src="https://colorlib.com/preview/theme/agenda/images/logo.png" width="400"></p>
+<p align="center"><img src="https://colorlib.com/preview/theme/agenda/images/logo-2.png" width="400"></p>
 
 
 ## Documentation
