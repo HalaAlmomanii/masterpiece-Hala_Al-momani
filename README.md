@@ -21,4 +21,4 @@ information, Member with company role will be able to create a new event and tra
 status of it and number of booking happened each day.
 
 
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+<p align="center"><img src="https://www.orange.jo/EN/PublishingImages/coding-academy_en.png" width="400"></p>
