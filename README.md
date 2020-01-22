@@ -1,14 +1,17 @@
 
 
 ## About Agenda
+
 This Repo presents a detailed description of the Event Booking system, This will
 be completed in its scope of the system and the functions required. The system provides a
 solution to allow the user to search for events satisfying the user criteria, manage the user
 account, and book an event.
+
 The purpose of it is to outline the requirements for The Coding Academy's by Orange
 With an interactive, unique and unusual ideas. Agenda will be built on Apache Server,
 PHP,laravel, and MySQL with JavaScript, React. It will be Web Application and accessible with
 any standard compliant browser.
+
 The Agenda website is an application. The purpose of the website is to resolve the client to
 allow website users to perform tasks related to booking Events. Non-member users are only
 allowed to see Home Page; non-member users are required to create an account in order to book
