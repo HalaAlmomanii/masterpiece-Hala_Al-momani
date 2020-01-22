@@ -70,15 +70,15 @@ By default, the username is root and password is also root. (This is for Lamp)
 ```
 Generate Key
 ```
-Run php artisan key:generate
+ php artisan key:generate
 ```
 Migrate database tabel
 ```
-Run php artisan migrate
+php artisan migrate
 ```
 running laravel
 ```
-Run php artisan serve
+ php artisan serve
 ```
 running React
 ```
