@@ -20,3 +20,5 @@ the right to search for available events, to book a ticket, claim awards and to 
 information, Member with company role will be able to create a new event and tracking the
 status of it and number of booking happened each day.
 
+
+<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
