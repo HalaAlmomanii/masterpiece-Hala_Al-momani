@@ -37,26 +37,38 @@ Clone
 git clone https://github.com/HalaAlmomanii/Agend.git
 
 ```
-Go to the folder application using cd command on your cmd or terminal
+Composer
 
-``` composer install 
-```
+``` 
+composer install 
 
-``` npm install 
 ```
-Copy .env.example file to .env on the root folder. You can type
+NPM
+```
+npm install
 
-```copy .env.example .env 
 ```
-if using command prompt Windows or
-``` cp .env.example .env 
+Env
+
+
+```
+copy .env.example .env 
+```
+if using command prompt Windows
+```
+cp .env.example .env 
 ```
 if using terminal, Ubuntu
 
+Laravel database
+
+```
 Open your .env file and change the database name (DB_DATABASE) to whatever you have, username (DB_USERNAME) and password (DB_PASSWORD) field correspond to your configuration. 
 By default, the username is root and you can leave the password field empty. (This is for Xampp) 
 By default, the username is root and password is also root. (This is for Lamp)
 
+```
+Laravel configure
 ```
 Run php artisan key:generate
 Run php artisan migrate
