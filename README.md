@@ -30,6 +30,8 @@ status of it and number of booking happened each day.
 ## Documentation
 <a href='https://github.com/HalaAlmomanii/masterpiece-Hala_Al-momani/blob/master/Documents/SRS.pdf'>Agenda.pdf</a>
 
+## Breif
+<a href='https://github.com/HalaAlmomanii/masterpiece-Hala_Al-momani/blob/master/Documents/project breif.pdf'>Agenda Breif.pdf</a>
 
 ## Installation 
 Clone 
